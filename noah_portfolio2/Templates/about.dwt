@@ -1,0 +1,205 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>About</title>
+<!-- TemplateEndEditable -->
+<link href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<style type="text/css">
+
+  body {
+    background-color: #7BB5D4;
+    color: #353333;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    float: none;
+    clear: none;
+	height: 4000px;
+  }
+	
+aside {
+	}
+
+td{
+    background-color: #CFC2C2;
+    width: 600px;
+    padding: 20px;
+    border: 5px solid #9B4141;
+    border-radius: 15px;
+}
+	ol, ul {
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin-left: 150px;
+    height: auto;
+	}
+li {
+    margin-left: 15px;
+    
+}
+ul   
+	li {
+    list-style-type: circle;
+	}
+img {
+    border-radius: 15px;
+    border: medium solid #337D83;
+    float: none;
+    display: inline;
+}
+	ol ul {
+    width: 300px;
+    border: 0px;
+    margin-left: -50px;
+    height: auto;
+	}
+td {
+}
+th {
+    background-color: #9B4041;
+    color: #CFC2C2;
+    border-radius: 15px;
+    border: thick double #337D83;
+}
+a {
+    color: #337D83;
+    text-decoration: none;
+    font-family: neonoir, sans-serif;
+}
+.foodli {
+    width: 250px;
+    border-color: #000000;
+    background-color: #FFFFFF;
+}
+.quote {
+}
+ul   {
+    background-color: #FFFFFF;
+    font-family: neonoir, sans-serif;
+}
+.newfont {
+}
+</style>
+<link href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul class="changethatfont">
+		<li><a href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/about.html" class="changethatfont">About</a></li>
+<li><a href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/blog.html" class="changethatfont">Blog</a></li>
+		<li><a href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/gallery.html" class="changethatfont">Gallery</a></li>
+		<li><a href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/contact.html" class="changethatfont">Contact</a></li>
+	</ul>
+  </nav>
+	<aside class="margintop"><h3>I'm a man, a son, a student, not a web developer or photographer, I do not wear glasses</h3>
+    <h3>Join me as I examine life through none
+
+of my various lenses</h3>
+	  <h3>by Noah Latman</h3>
+  </aside>
+  <h1 class="margintop">Hello, world! My name is Noah.</h1>
+<p>This is a webpage all about me. My likes, dislikes, hopes, dreams, and favorite things.</p>
+  <h1>Biography</h1>
+  <p>I am a student at Cox Mill High School. I live with my mom, my dad, and my sister Macey. I am most interested in math and I want to become an Architect one day.&nbsp;&nbsp;</p>
+  <p>In my spare time I like to, listen to music, watch TV, and hang out with my friends. My life goal is to be rich!</p>
+  <img src="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/headshot.png" alt="" width="208" height="278" class="meimage"/>
+  <h1>My Favorite Quotation</h1>
+  <blockquote>
+    <p class="quote"><em>&quot;I miss the <strong>old Kanye</strong>" -Kanye West
+    </em></p>
+  </blockquote>
+  <h1>My Favorite Foods</h1>
+  <ul class="foodli nofont">
+    <li>Pizza</li>
+    <li>Cheeseburgers&nbsp;</li>
+    <li>Nachos&nbsp;</li>
+    <li>Tacos</li>
+    <li>Chicken</li>
+   </ul>
+  <h1>My Top Five Favorite Avengers Movies, in order</h1>
+  <ol class="list">
+    <li>&nbsp;Avengers: Endgame
+    </li>
+    <li>&nbsp;Black Panther</li>
+    <li>&nbsp;Avengers: Infinity War</li>
+    <li>&nbsp;Thor: Ragnarok</li>
+    <li>&nbsp;Spiderman: No Way Home&nbsp;</li>
+    </ol>
+  <h1>Places I'd Like to Visit, and What I'd Like To Do There</h1>
+  <ol class="list">
+    <li>Italy
+      <ul class="nofont">
+        <li>Visit Venice and Rome</li>
+        <li>Go to the beaches&nbsp;</li>
+        <li>Eat Food</li>
+      </ul>
+      </li>
+    <li>Greece
+      <ul class="nofont">
+        <li>See Pompeii</li>
+        <li>&nbsp;Tour te Acropolis</li>
+        <li>&nbsp;Eat Food</li>
+      </ul>
+      </li>
+    <li>Alaska
+      <ul class="nofont">
+        <li>Take a cruise&nbsp;&nbsp;</li>
+        <li>&nbsp;View the mountains</li>
+        <li>See the northern lights&nbsp; </li>
+      </ul>
+      </li>
+  </ol>
+  <h1> Other Favorite Things</h1>
+  <table width="33%" cellpadding="10" class="table">
+    <tbody>
+      <tr>
+        <th width="20%" class="redtoblue">Favorite Flower</th>
+        <td width="26%" class="tablecolor"><a href="https://en.wikipedia.org/wiki/Rose" class="nofont">Rose</a>&nbsp;</td>
+        <td width="54%" class="tablecolor"><img src="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/rose.png" width="200" height="200" alt=""/></td>
+      </tr>
+      <tr>
+        <th width="20%" class="redtoblue">Favorite Time of Day</th>
+        <td width="26%" class="tablecolor"><a href="https://www.amazon.com/Night-Elie-Wiesel/dp/0374500010" class="nofont">Night</a></td>
+        <td width="54%" class="tablecolor"><img src="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/night.png" width="200" height="200" alt=""/></td>
+      </tr>
+      <tr>
+        <th width="20%" class="redtoblue">Favorite Drink</th>
+        <td width="26%" class="tablecolor"><a href="https://www.youtube.com/watch?v=voCbXfIdfSE" class="nofont">Milk</a></td>
+        <td width="54%" class="tablecolor"><img src="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/milkers.png" width="200" height="200" alt=""/></td>
+      </tr>
+      <tr>
+        <th width="20%" class="redtoblue">Favorite Animal</th>
+        <td width="26%" class="tablecolor"><a href="https://www.penguinworld.com/" class="nofont">Penguin</a>&nbsp;</td>
+        <td width="54%" class="tablecolor"><img src="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/penguins.png" width="200" height="200" alt=""/></td>
+      </tr>
+      <tr>
+        <th width="20%" class="redtoblue">Favorite Song</th>
+        <td width="26%" class="tablecolor"><a href="https://www.youtube.com/watch?v=kffacxfA7G4" class="nofont">"Baby"- Justin Bieber</a>&nbsp;</td>
+        <td width="54%" class="tablecolor"><img src="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/justinbieber.png" width="200" height="200" alt=""/></td>
+      </tr>
+      <tr>
+        <th width="20%" class="redtoblue">Favorite Color<br>
+          <br></th>
+<td width="26%" class="tablecolor"><a href="https://www.red.org/" class="nofont">Red</a>&nbsp;</td>
+        <td width="54%" class="tablecolor"><img src="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/red.png" width="200" height="200" alt=""/></td>
+      </tr>
+    </tbody>
+  </table>
+  <h1>Contact Information</h1>
+  <p>Email: <a href="mailto:helloitsme@gmail.com" class="nofont">helloitsme@gmail.com</a></p>
+  <p>Phone: <a href="tel: 123-456-7890" class="nofont">123-456-7890</a></p>
+	<footer></footer>
+</div>
+</body>
+</html>

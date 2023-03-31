@@ -1,0 +1,301 @@
+@charset "UTF-8";
+
+body {
+    background-color: #7BB5D4;
+    color: #353333;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14pt;
+    background-image: url(bokeh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+		
+  }
+
+#container nav ul {
+    width: 768px;
+    background-color: #007A72;
+    border-color: #FFFFFF;
+    margin-left: 100px;
+    height: 50px;
+    margin-bottom: 20px;
+    float: none;
+}
+#container {
+    width: 768px;
+    background-color: #FFFFFF;
+    float: none;
+    height: auto;
+    margin: auto;
+}
+
+/*Float the Aside so it displays next to the Main*/
+aside {
+    width: 150px;
+    background-color: #007A72;
+    min-width: 0px;
+    clear: none;
+    height: 3450px;
+    float: left;
+}
+
+header {
+    width: 768px;
+    height: 250px;
+    background-position: 50% 0%;
+    background-image: url("stuff/images/P2banner.png");
+    padding-top: 0px;
+    margin-top: -25px;
+}
+
+/*Float the Main so it shows up next to the Aside. Reduce width by 150px so they both line header*/
+main {
+    width: 598px;
+    height: 600px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    float: none;
+}
+
+
+/*Clear the float so the footer shows up in the right place again*/
+footer {
+    width: 768px;
+    height: 75px;
+    background-color: #007A72;
+    clear: none;
+    margin: auto;
+}
+
+h1 {
+    color: #EAC8D3;
+    font-family: politica, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24pt;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+img {
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.floatleft {
+	float: left;	
+}
+#container nav li {
+    display: block;
+    list-style-type: none;
+    float: left;
+    margin: 0px 40px 0px 0px;
+    font-size: 18pt;
+    padding-bottom: 20px;
+}
+#container nav ul {
+    width: 565px;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    margin-left: 100px;
+}
+
+p {
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 160px;
+    width: 520px;
+    border-color: #000000;
+    background-color: #FFFFFF;
+}
+
+h3 {
+    font-size: 12pt;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+article {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+nav {
+    width: 768px;
+    height: 50px;
+}
+
+nav a:link {
+    color: #EAC8D3;
+    text-decoration: none;
+    font-family: neonoir, sans-serif;
+}
+nav a:visited {
+    text-decoration: none;
+    color: #337D83;
+}
+nav a:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+	background-color: #EAC8D3;
+	border-radius: 15px;
+	font-family: neonoir, sans-serif;
+}
+nav a:active {
+    text-decoration: none;
+    color: #353333;
+    font-family: neonoir, sans-serif;
+}.submit_btn {
+    width: 160px;
+    background-color: #337D83;
+    border-radius: 10px;
+    color: #FFFFFF;   
+}
+
+.submit_btn:hover {
+	-webkit-box-shadow: 6px 6px 35px 1px #000000;
+    box-shadow: 6px 6px 35px 1px #000000;
+}
+ul li a {
+    float: right;
+    color: #6BE6FF;
+}
+
+.quote {
+	width: 225px;
+}
+
+.meimage {
+    margin-right: 25px;
+}
+
+.list {
+	width: 520px;
+    background-color: #FFFFFF;
+	border-color: black
+}
+
+.table {
+    width: 615px;
+    float: right;
+}
+
+.tablecolor {
+	background-color: white;
+	border-color: black;
+}
+
+.redtoblue {
+	background-color: darkslateblue;
+}
+
+.length1 {
+	height: 3700px ;
+}
+
+.length2 {
+	height: 4000px ;
+}
+
+.changethatfont {
+	font-family: neonoir, sans-serif;
+	margin: 0px 20px 0px 0px;
+}
+
+.nofont {
+	font-family: canada-type-gibson, sans-serif;
+}
+
+.margintop {
+	margin-top: 20px;
+}
+
+.cclicense {
+	width: 500px;
+	height: 20px;
+	clear: both;
+	padding: 50px 0px 0px 0px;
+	float: left;
+	margin-top: -70px;
+	margin-left: -10px
+}
+video {
+    width: 520px;
+    margin: auto;
+    height: 520px;
+}
+@media (max-width: 1024px){
+	#container {
+		width: 768px;
+	}
+	
+	header {
+		width: 768px;
+	}
+	
+	nav{
+		width: 768px;
+	}
+	
+	main {
+		width: 598px;
+	}
+	
+	footer {
+    width: 768px;
+    float: none;
+    clear: none;
+	}
+	
+	.column{
+	   margin: 0px 20px 0px 25px;
+	}
+
+}
+
+@media only screen and (max-width:375px){
+	#container {
+		width: 300px;
+	}
+	
+	header {
+		width: 300px;
+		background-image: url("stuff/images/P3Header300px.png");
+	}
+	
+	nav{
+		width: 300px;
+		height: 250px;
+		position: static;
+		
+	}
+	
+	main {
+		width: 300px;
+	}
+	
+	footer {
+		width: 300px;
+	}
+	
+	aside {
+		display: none;
+	}
+	
+	.column{
+	   margin: 0px 20px 0px 25px;
+	}
+	
+	#container nav li {
+	display: list-item;
+	list-style-type: none;
+	float: none;
+	margin: 0px 0px 20px 0px;
+	width: 260px;
+	text-align: center;
+	}
+}

@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Contact</title>
+<!-- TemplateEndEditable -->
+<link href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+<link rel="stylesheet" href="https://use.typekit.net/rtx0nbj.css">
+
+<!-- TemplateBeginEditable name="head" -->
+<style>
+	#container {
+    height: 1000px;
+    float: none;
+}
+	
+	aside {
+		height: 681px;
+	}
+</style>
+<!-- TemplateEndEditable -->
+
+</head>
+	
+<body>
+	<div class="length1" id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/about.html">About</a></li>
+		<li><a href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/blog.html">Blog</a></li>
+		<li><a href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/gallery.html">Gallery</a></li>
+		<li><a href="file:///Macintosh HD/Users/nlatman3784/Library/CloudStorage/OneDrive-CabarrusCountySchools/Digital Design/Project01/noah_portfolio/contact.html">Contact</a></li>
+	</ul>
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a man, a son, a student, not a web developer or photographer, I do not wear glasses</h3>
+    <h3>Join me as I examine life through none
+of my various lenses</h3>
+	  <h3>by Noah Latman</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable --><!--end Floated Elements-->
+  <footer></footer>
+</div>
+</body>
+</html>
